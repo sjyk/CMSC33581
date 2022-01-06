@@ -7,7 +7,7 @@ We are collecting and storing more data than ever, and in many domains, data is 
 
 *Grading*: Students will be graded on participation (25% of your grade) and a final course project (75% of your grade).
 
-*Prerequisites*: Statistics/Probability at an undergraduate level and Database Systems/Data Engineering course at an undergraduate level.
+*Prerequisites*: Statistics/Probability at an advanced undergraduate level and Database Systems/Data Engineering course at an undergraduate level.
 
 ## Course Topics
 
